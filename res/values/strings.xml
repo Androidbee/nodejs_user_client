@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">My Node Client</string>
+    <string name="hint_url">http url을 입력하세요</string>
+    <string name="btn_go">Go</string>
+    <string name="subscribe_member">회원가입</string>
+    <string name="result">결과</string>
+    <string name="insert_id">ID를 입력하세요</string>
+    <string name="insert_name">이름을 입력하세요</string>
+    <string name="label_id">Id:</string>
+    <string name="label_name">Name:</string>
+    <string name="nodejs">Node.js</string>
+    <string name="baasio">baas.io</string>
+</resources>
